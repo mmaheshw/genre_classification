@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manjari/genre_classification/genre_classification/preprocess/mlruns/0/99fdcea5775746c3b26dab24cb1d57ef/artifacts
+end_time: 1689473588298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99fdcea5775746c3b26dab24cb1d57ef
+run_name: sassy-cat-639
+run_uuid: 99fdcea5775746c3b26dab24cb1d57ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689473485085
+status: 3
+tags: []
+user_id: manjari

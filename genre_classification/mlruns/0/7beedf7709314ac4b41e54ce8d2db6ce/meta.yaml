@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manjari/genre_classification/genre_classification/mlruns/0/7beedf7709314ac4b41e54ce8d2db6ce/artifacts
+end_time: 1689472258045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7beedf7709314ac4b41e54ce8d2db6ce
+run_name: trusting-shrike-340
+run_uuid: 7beedf7709314ac4b41e54ce8d2db6ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689472201221
+status: 3
+tags: []
+user_id: manjari

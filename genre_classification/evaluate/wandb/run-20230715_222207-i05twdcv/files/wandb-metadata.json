@@ -1,0 +1,29 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.17",
+    "heartbeatAt": "2023-07-16T02:22:08.188216",
+    "startedAt": "2023-07-16T02:22:07.572534",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "genre_classification/evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/mmaheshw/genre_classification.git",
+        "commit": "e3f4e84e3c9b83710fe5de215496d6df819e7164"
+    },
+    "email": "mmaheshwari@stclaircollege.ca",
+    "root": "/home/manjari/genre_classification",
+    "host": "DESKTOP-NTHN3P6",
+    "username": "manjari",
+    "executable": "/home/manjari/miniconda3/envs/mlflow-5b7341e918d52007981d5474a23e256c25cb7b9b/bin/python"
+}

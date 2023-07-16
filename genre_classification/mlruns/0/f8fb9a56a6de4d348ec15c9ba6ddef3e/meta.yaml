@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manjari/genre_classification/genre_classification/mlruns/0/f8fb9a56a6de4d348ec15c9ba6ddef3e/artifacts
+end_time: 1689473671251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8fb9a56a6de4d348ec15c9ba6ddef3e
+run_name: debonair-crow-693
+run_uuid: f8fb9a56a6de4d348ec15c9ba6ddef3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689473661959
+status: 3
+tags: []
+user_id: manjari

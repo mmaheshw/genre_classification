@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manjari/genre_classification/genre_classification/mlruns/0/bc1d406fd5df49fb8278cef5ca350b2e/artifacts
+end_time: 1689471963449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc1d406fd5df49fb8278cef5ca350b2e
+run_name: useful-frog-883
+run_uuid: bc1d406fd5df49fb8278cef5ca350b2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689471770355
+status: 4
+tags: []
+user_id: manjari

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manjari/genre_classification/genre_classification/mlruns/0/43333983c26c4fad87a69d683b6db2a3/artifacts
+end_time: 1689473990322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43333983c26c4fad87a69d683b6db2a3
+run_name: incongruous-newt-700
+run_uuid: 43333983c26c4fad87a69d683b6db2a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689473838835
+status: 3
+tags: []
+user_id: manjari

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manjari/genre_classification/genre_classification/mlruns/0/1845de7639c64901ab53bde2c5c9e983/artifacts
+end_time: 1689473838824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1845de7639c64901ab53bde2c5c9e983
+run_name: rebellious-dog-959
+run_uuid: 1845de7639c64901ab53bde2c5c9e983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689473753529
+status: 3
+tags: []
+user_id: manjari

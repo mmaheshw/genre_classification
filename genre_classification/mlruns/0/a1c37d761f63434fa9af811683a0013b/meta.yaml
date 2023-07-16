@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manjari/genre_classification/genre_classification/mlruns/0/a1c37d761f63434fa9af811683a0013b/artifacts
+end_time: 1689471718552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1c37d761f63434fa9af811683a0013b
+run_name: resilient-bee-761
+run_uuid: a1c37d761f63434fa9af811683a0013b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689471717610
+status: 4
+tags: []
+user_id: manjari

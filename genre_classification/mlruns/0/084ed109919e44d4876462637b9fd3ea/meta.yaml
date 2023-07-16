@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manjari/genre_classification/genre_classification/mlruns/0/084ed109919e44d4876462637b9fd3ea/artifacts
+end_time: 1689474133807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 084ed109919e44d4876462637b9fd3ea
+run_name: languid-bird-686
+run_uuid: 084ed109919e44d4876462637b9fd3ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689473654550
+status: 3
+tags: []
+user_id: manjari

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manjari/genre_classification/genre_classification/mlruns/0/d8b878d10be24851aaae00c43b9006fc/artifacts
+end_time: 1689473753519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8b878d10be24851aaae00c43b9006fc
+run_name: welcoming-loon-474
+run_uuid: d8b878d10be24851aaae00c43b9006fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689473671258
+status: 3
+tags: []
+user_id: manjari

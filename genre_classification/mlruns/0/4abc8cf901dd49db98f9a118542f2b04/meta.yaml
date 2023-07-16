@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manjari/genre_classification/genre_classification/mlruns/0/4abc8cf901dd49db98f9a118542f2b04/artifacts
+end_time: 1689473661951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4abc8cf901dd49db98f9a118542f2b04
+run_name: efficient-rook-356
+run_uuid: 4abc8cf901dd49db98f9a118542f2b04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689473655738
+status: 3
+tags: []
+user_id: manjari
